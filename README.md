@@ -143,8 +143,3 @@ Happy trading! 🚀📈
 
 ---
 
-### ✅ Notes:
-- File names are now consistent.
-- Flow is professional and easy to follow.
-- GitHub repository link is set to your username.
-- Added future roadmap for brokerage automation.
