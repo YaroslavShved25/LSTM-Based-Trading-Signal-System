@@ -1,5 +1,5 @@
 
-````markdown
+
 # 📈 LSTM-Based Trading Signal System
 
 This project uses an **LSTM deep learning model** to generate **buy signals** for high-volatility equities like **$MSTR**, based on historical price and volume data.  
